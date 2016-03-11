@@ -23,9 +23,12 @@
     "fedramp_inprocess_agency":"https://www.fedramp.gov/marketplace/in-process-systems/box-inc-box-enterprise-cloud-content-collaboration-platform/",
     "tags":[
         "saas",
-        "storage"
+        "storage",
+        "PCI",
+        "HIPAA"
     ],
     "contracts":[
-        "sewp"
+        "sewp", 
+        "s70"
     ],
 }
